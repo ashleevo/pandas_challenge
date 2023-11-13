@@ -1,2 +1,1 @@
-# pandas_challenge
-pandas challenge assignment
+This project was completed utilizing pandas in Jupyter Notebook in order to assist a city school district make decisions based on school budgeting and prioritizes, as well as analyze standardized testing passing rates. Some resources utilized in order to complete this project included the "ask the class" Slack channel, examples and notes collected in the course material, debugging measures on StackOverflow, and search ups for formatting issues such as performing calculations reverting strings to integers using removal of special characters such as "$".
